@@ -1,6 +1,6 @@
 # 🚀 Proposito do Projeto
 
-O projeto tem sido desenvolvido pelos alunos do 2ºDSM da Fatec Jacareí, que tem como objetivo desenvolver uma aplicação web que permita aos usuários acessar as áreas queimadas, riscos de fogo e focos de calor do Programa Queimadas do INPE.
+O projeto está sendo desenvolvido pelos alunos do 2ºDSM da Fatec Jacareí, visando criar uma aplicação web que permite aos usuários acessar informações sobre áreas queimadas, riscos de incêndio e focos de calor, utilizando dados do Programa Queimadas do INPE. A ferramenta busca facilitar o acesso a esses importantes dados ambientais, contribuindo para o monitoramento e prevenção de incêndios no território brasileiro.
 
 ## 🌟 Visão Geral do Projeto
  
