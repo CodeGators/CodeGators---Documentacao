@@ -15,11 +15,9 @@ Este repositório visa **centralizar e organizar a documentação do time Scrum*
 ## 📂 Índice
  
 1. [Product Backlog](product-backlog.md)
-2. [Requisitos Não Funcionais](requisitos-nao-funcionais.md)
-3. [Requisitos Funcionais](requisitos-funcionais.md)
-4. [User Stories](user-stories.md)
-5. [Equipe Scrum](equipe-scrum.md)
-6. [Relatório da Primeira Sprint](relatorio-primeira-sprint.md)
-7. [Sprint Backlog](sprint-backlog.md)
+2. [User Stories](user-stories.md)
+3. [Equipe Scrum](equipe-scrum.md)
+4. [Relatório da Primeira Sprint](relatorio-primeira-sprint.md)
+5. [Sprint Backlog](sprint-backlog.md)
  
 
