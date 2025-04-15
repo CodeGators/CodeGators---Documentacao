@@ -14,11 +14,10 @@ Este repositório visa **centralizar e organizar a documentação do time Scrum*
  
 ## 📂 Índice
  
-1. [Product Backlog](product-backlog.md)
-2. [User Stories](user-stories.md)
-3. [Equipe Scrum](equipe-scrum.md)
-4. [Relatório da Primeira Sprint](relatorio-primeira-sprint.md)
-5. [Sprint Backlog](sprint-backlog.md)
+1. [Product Backlog](Backlog/BackLog%20-%20V2.docx)
+2. [Visual](Visual/)
+3. [Uml](Uml/)
+
  
  
  # 🛠 PRODUCT BACKLOG: 
