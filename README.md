@@ -18,7 +18,9 @@ Este repositório visa **centralizar e organizar a documentação do time Scrum*
 2. [Visual](Visual/)
 3. [Uml](Uml/)
 
- 
+## ⚠ Observação 
+
+Este repositório tem como objetivo documentar todo o nosso projeto em desenvolvimento. Caso você queira acompanhar o progresso do nosso sistema, acesse o repositório <a text="Link do repositório" href=https://github.com/CodeGators/CodeGators---Front-Server></a> lá estão disponíveis todos os arquivos do servidor. 
  
  # 🛠 PRODUCT BACKLOG: 
 
