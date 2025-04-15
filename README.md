@@ -96,32 +96,76 @@ Este repositório visa **centralizar e organizar a documentação do time Scrum*
     <tr>
         <td>Scrum Master</td>
         <td>Stefan Souza Cruz</td>
-        <td><a href=https://github.com/Stefan0212><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
+        <td><a href=https://github.com/Stefan0212><img src="Imagens/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
     <tr>
         <td>Product Owner</td>
         <td>Arthur Augusto Da Silva Cunha</td> 
-        <td><a href=https://github.com/ArthurAugusto10><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
+        <td><a href=https://github.com/ArthurAugusto10><img src="Imagens/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
     <tr>
         <td>Developer</td>
         <td>Gustavo Reis</td>
-        <td><a href=https://github.com/GustavoReis-xml><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
+        <td><a href=https://github.com/GustavoReis-xml><img src="Imagens/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
     <tr>
         <td>Developer</td>
         <td>Filippe Gonçalves Marchezoni</td>
-        <td><a href=https://github.com/FilippeGM><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
+        <td><a href=https://github.com/FilippeGM><img src="Imagens/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
     <tr>
         <td>Developer</td>
         <td>Anderson Fontes</td>
-        <td><a href=https://github.com/Anderson-Fontes><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
+        <td><a href=https://github.com/Anderson-Fontes><img src="Imagens/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
     <tr>
         <td>Developer</td>
         <td>Rafael Shinji Tomokame</td>
-        <td><a href=https://github.com/RafaelShinjiTomokame><img src="Images/github-logo.png" style="height:20px; width:20px;"></a></td>
+        <td><a href=https://github.com/RafaelShinjiTomokame><img src="Imagens/github-logo.png" style="height:20px; width:20px;"></a></td>
     </tr>
 </table>
 
+# SPRINT 1 
+
+Na primeira sprint, nosso principal objetivo foi criar o banco de dados do nosso site e o modelo visual utilizando a ferramenta Figma. Para alcançar esse objetivo, dividimos a nossa equipe de acordo com o nível de prioridade de cada tarefa e entendemos como equipe que a maior prioridade era deixar o ambiente do banco de dados pronto. O Scrum Master monitorou periodicamente o gráfico de burndown e, durante as reuniões diárias, verificou juntamente com a equipe como estava o andamento das tarefas. Buscamos atender a todos os requisitos que o Product Owner havia levantado, passando por sua validação.
+
+
+<h2>SPRINT BACKLOG</h2>
+<table>
+    <tr>
+        <th>REFERENCIA</th>
+        <th>REQUISITO DA SPRINT</th>
+        <th>RESPONSAVEL</th>
+        <th>CONCLUÍDA</th>
+    </tr>
+    <tr>
+        <td>RF.01</td>
+        <td>Criar ambiente do banco de dados</td>
+        <td>Stefan,Anderson,Fillipe,Arthur</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>RF.02</td>
+        <td>Criar os diagrams solicitados pelo professor</td>
+        <td>Arthur</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>RF.03</td>
+        <td>Fazer a consulta geoespacial</td>
+        <td>Gustavo,Anderson,Rafael</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>RF.04</td>
+        <td>Fazer a consulta geoespacial</td>
+        <td>Gustavo,Anderson,Rafael</td>
+        <td>✔</td>
+    </tr>
+    </tr>
+</table>
+
+
+# BURNDOWN:
+
+(campo para colocar o grafico)
