@@ -171,7 +171,7 @@ Na primeira sprint, nosso principal objetivo foi criar o banco de dados do nosso
 
 # BURNDOWN
 
-(campo para colocar o grafico)
+![Anotação 2024-10-03 221449](https://github.com/user-attachments/assets/d46c0520-2059-42d3-b134-3fe9f58cb997)
 
 # SPRINT RETROSPECTIVE
 
