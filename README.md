@@ -173,7 +173,7 @@ Na primeira sprint, nosso principal objetivo foi criar o banco de dados do nosso
 
 (campo para colocar o grafico)
 
-# SPRINT REVIEW
+# SPRINT RETROSPECTIVE
 
 Nessa primeira sprint, percebemos algumas dificuldades no caminho, como a divisão de tarefas, atribuição de responsabilidades e desafios técnicos relacionados ao uso das ferramentas de trabalho (PostGIS, pgAdmin).
 Entre os pontos positivos, destacamos a comunicação eficiente e o excelente entrosamento da nossa equipe, o que proporcionou um ambiente de trabalho mais tranquilo e com maior produtividade. Uma iniciativa que implementamos no projeto foi a realização de reuniões além do horário acadêmico, permitindo melhor organização e alinhamento entre os membros.
