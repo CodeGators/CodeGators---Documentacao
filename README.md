@@ -17,6 +17,7 @@ Este repositório visa **centralizar e organizar a documentação do time Scrum*
 1. [Product Backlog](Backlog/BackLog%20-%20V2.docx)
 2. [Visual](Visual/)
 3. [Uml](Uml/)
+4. [Reunião](Reunião/)
 
 ## ⚠ Observação 
 
