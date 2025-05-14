@@ -84,6 +84,10 @@ Este repositório tem como objetivo documentar todo o nosso projeto em desenvolv
         <td>RF.13</td>
         <td>Como usuário do site quero interagir com o site, respondendo a duas perguntas para fins de conhecimento; </td>
     </tr>
+     <tr>
+        <td>RF.14</td>
+        <td>Ccriação da documentação do caso de testes; </td>
+    </tr>
     </tr>
 </table>
 
