@@ -86,7 +86,7 @@ Este repositório tem como objetivo documentar todo o nosso projeto em desenvolv
     </tr>
      <tr>
         <td>RF.14</td>
-        <td>Ccriação da documentação do caso de testes; </td>
+        <td>Criação da documentação do caso de testes; </td>
     </tr>
     </tr>
 </table>
