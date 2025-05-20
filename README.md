@@ -181,3 +181,45 @@ Na primeira sprint, nosso principal objetivo foi criar o banco de dados do nosso
 
 Nessa primeira sprint, percebemos algumas dificuldades no caminho, como a divisão de tarefas, atribuição de responsabilidades e desafios técnicos relacionados ao uso das ferramentas de trabalho (PostGIS, pgAdmin).
 Entre os pontos positivos, destacamos a comunicação eficiente e o excelente entrosamento da nossa equipe, o que proporcionou um ambiente de trabalho mais tranquilo e com maior produtividade. Uma iniciativa que implementamos no projeto foi a realização de reuniões além do horário acadêmico, permitindo melhor organização e alinhamento entre os membros.
+
+# SPRINT 2
+
+Durante a segunda sprint, aprimoramos a estrutura do banco de dados e otimizamos a conexão com o backend, garantindo maior eficiência nas consultas. O frontend foi refinado, com melhorias visuais e de usabilidade. Implementamos a visualização de focos de calor diretamente no mapa, facilitando a análise espacial dos dados. Adicionamos também um gráfico interativo que exibe os focos de calor por estado. Esses avanços fortaleceram a integração entre as camadas do sistema e ampliaram a funcionalidade da aplicação.
+
+<h2>SPRINT BACKLOG</h2>
+<table>
+    <tr>
+        <th>REFERENCIA</th>
+        <th>REQUISITO DA SPRINT</th>
+        <th>RESPONSAVEL</th>
+        <th>CONCLUÍDA</th>
+    </tr>
+    <tr>
+        <td>RF.01</td>
+        <td>FAZER A CRIAÇÃO DO SISTEMA</td>
+        <td>Stefan,Anderson</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>RF.02</td>
+        <td>CONEXÃO COM O BANCO DE DADOS</td>
+        <td>Arthur,Gustavo</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>RF.03</td>
+        <td>DIAGRAMA DE SEQUÊNCIA</td>
+        <td>Rafael</td>
+        <td>✔</td>
+    </tr>
+    </tr>
+</table>
+
+# BURNDOWN
+
+![Anotação 2024-10-03 221449](https://github.com/CodeGators/CodeGators---Documentacao/blob/main/imagens/sprint1.png)
+
+
+# SPRINT RETROSPECTIVE
+
+Nesta segunda sprint, tivemos um desempenho bastante satisfatório em comparação com a anterior. Conseguimos evoluir significativamente na organização e na gestão do projeto, com avanços notáveis na definição de tarefas e na priorização das entregas. Durante o período, enfrentamos alguns desafios relacionados ao relacionamento entre membros da equipe. No entanto, conseguimos resolvê-los de maneira eficaz, sem que isso afetasse negativamente o progresso do desenvolvimento.
