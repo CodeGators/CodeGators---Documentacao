@@ -218,7 +218,7 @@ Durante a segunda sprint, aprimoramos a estrutura do banco de dados e otimizamos
 
 # BURNDOWN
 
-![Sprint 2](imagens/sprint2.png)
+![sprint2](https://github.com/user-attachments/assets/46ec3eb0-d596-4818-825f-bdc2f0d1f46e)
 
 
 
