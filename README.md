@@ -217,7 +217,7 @@ Durante a segunda sprint, aprimoramos a estrutura do banco de dados e otimizamos
 
 # BURNDOWN
 
-![Anotação 2024-10-03 221449](https://github.com/CodeGators/CodeGators---Documentacao/blob/main/imagens/sprint1.png)
+![Anotação 2024-10-03 221449](https://github.com/CodeGators/CodeGators---Documentacao/blob/main/imagens/sprint2.png)
 
 
 # SPRINT RETROSPECTIVE
