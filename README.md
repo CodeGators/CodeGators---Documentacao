@@ -225,3 +225,59 @@ Durante a segunda sprint, aprimoramos a estrutura do banco de dados e otimizamos
 # SPRINT RETROSPECTIVE
 
 Nesta segunda sprint, tivemos um desempenho bastante satisfatório em comparação com a anterior. Conseguimos evoluir significativamente na organização e na gestão do projeto, com avanços notáveis na definição de tarefas e na priorização das entregas. Durante o período, enfrentamos alguns desafios relacionados ao relacionamento entre membros da equipe. No entanto, conseguimos resolvê-los de maneira eficaz, sem que isso afetasse negativamente o progresso do desenvolvimento.
+
+# SPRINT 3
+
+Nesta última sprint, nosso foco foi implementar as funcionalidades de área queimada e focos de calor, além de estruturar o campo onde os gráficos são gerados. Trabalhamos para garantir que os dados apresentados estejam coerentes com as informações exibidas no mapa, validando as entradas e saídas do sistema. Também dedicamos atenção à melhoria visual da interface, buscando torná-la mais intuitiva, e realizamos ajustes de desempenho para tornar o sistema mais ágil e eficiente.
+
+<h2>SPRINT BACKLOG</h2>
+<table>
+    <tr>
+        <th>REFERENCIA</th>
+        <th>REQUISITO DA SPRINT</th>
+        <th>RESPONSAVEL</th>
+        <th>CONCLUÍDA</th>
+    </tr>
+    <tr>
+        <td>RF.01</td>
+        <td>ALGORISMO RECURSIVO</td>
+        <td>Anderson, Gustavo</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>RF.02</td>
+        <td>APLICAR OS DADOS</td>
+        <td>Gustavo</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>RF.03</td>
+        <td>ESTILIZAR INTERFACE</td>
+        <td>Anderson</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>RF.04</td>
+        <td>ROTAS</td>
+        <td>Gustavo</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>RF.05</td>
+        <td>CRIAR GRAFICOS</td>
+        <td>Anderson, Gustavo</td>
+        <td>✔</td>
+    </tr>
+    </tr>
+</table>
+
+
+# BURNDOWN
+
+![sprint3](![image](https://github.com/user-attachments/assets/5e1b4b6a-e12b-47d0-bd94-f4a3a223707e)
+)
+
+
+# SPRINT RETROSPECTIVE
+
+A sprint foi, de forma geral, bastante produtiva. A equipe demonstrou proatividade, boa comunicação e cooperação, o que facilitou o cumprimento das atividades e fortaleceu o trabalho em equipe. As reuniões de alinhamento contribuíram para uma gestão de tarefas mais clara, e o comprometimento da maioria dos integrantes possibilitou um bom ritmo de desenvolvimento e aprendizado coletivo. No entanto, também enfrentamos alguns pontos a melhorar, como a falta de comprometimento por parte de alguns membros, o não cumprimento de prazos e certa dificuldade de direcionamento em momentos-chave do projeto. Esses desafios mostraram a importância de manter todos alinhados desde o início da sprint e reforçar a responsabilidade individual para que os próximos ciclos sejam ainda mais eficientes.
