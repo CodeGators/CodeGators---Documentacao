@@ -274,9 +274,7 @@ Nesta última sprint, nosso foco foi implementar as funcionalidades de área que
 
 # BURNDOWN
 
-![sprint3](![image](https://github.com/user-attachments/assets/5e1b4b6a-e12b-47d0-bd94-f4a3a223707e)
-)
-
+![Anotação 2024-10-03 221449](https://github.com/CodeGators/CodeGators---Documentacao/blob/main/imagens/sprint3.png)
 
 # SPRINT RETROSPECTIVE
 
