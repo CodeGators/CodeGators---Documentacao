@@ -150,7 +150,7 @@ Na primeira sprint, nosso principal objetivo foi criar o banco de dados do nosso
     <tr>
         <td>RF.01</td>
         <td>Criar ambiente do banco de dados</td>
-        <td>Stefan,Anderson,Fillipe,Arthur</td>
+        <td>Stefan,Anderson,Arthur</td>
         <td>✔</td>
     </tr>
     <tr>
@@ -162,13 +162,7 @@ Na primeira sprint, nosso principal objetivo foi criar o banco de dados do nosso
     <tr>
         <td>RF.03</td>
         <td>Fazer a consulta geoespacial</td>
-        <td>Gustavo,Anderson,Rafael</td>
-        <td>✔</td>
-    </tr>
-    <tr>
-        <td>RF.04</td>
-        <td>Fazer a consulta geoespacial</td>
-        <td>Gustavo,Anderson,Rafael</td>
+        <td>Gustavo,Anderson</td>
         <td>✔</td>
     </tr>
     </tr>
