@@ -241,7 +241,7 @@ Nesta última sprint, nosso foco foi implementar as funcionalidades de área que
     </tr>
     <tr>
         <td>RF.01</td>
-        <td>ALGORISMO RECURSIVO</td>
+        <td>ALGORITMO  RECURSIVO</td>
         <td>Anderson, Gustavo</td>
         <td>✔</td>
     </tr>
